@@ -1,1 +1,1 @@
-SELECT CustomerName,City, State,zipcode  FROM Customers;
+SELECT CustomerName,product_purchased, City, State,zipcode  FROM Customers;
